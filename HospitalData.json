@@ -1,0 +1,100 @@
+{
+  "doctors": [
+    {
+      "doctorId": 1,
+      "name": "Dr. Asha Mehta",
+      "specialization": "Cardiologist",
+      "experience": 15,
+      "patients": [
+        {
+          "patientId": 101,
+          "name": "Rahul Shah",
+          "age": 45,
+          "disease": "Heart Attack",
+          "admissionStatus": "Indoor",
+          "admittedDate": "2024-10-10",
+          "releasingDate": "2024-10-20",
+          "releasingSummary": "Stable and Discharged"
+        },
+        {
+          "patientId": "101",
+          "name": "Rahul Shah",
+          "disease": "Heart Attack",
+          "admissionStatus": "Indoor"
+        }
+      ]
+    },
+    {
+      "doctorId": 2,
+      "name": "Dr. Sanjay Roy",
+      "specialization": "Neurologist",
+      "experience": 10,
+      "patients": [
+        {
+          "patientId": 201,
+          "name": "Anil Desai",
+          "age": 50,
+          "disease": "Stroke",
+          "admissionStatus": "Indoor",
+          "admittedDate": "2024-10-15",
+          "releasingDate": "2024-10-25",
+          "releasingSummary": "Under Observation"
+        },
+        {
+          "patientId": "202",
+          "name": "Devyanshi Thummar",
+          "disease": "Stroke",
+          "admissionStatus": "Indoor"
+        },
+        {
+          "patientId": "203",
+          "name": "Tanvi Kanani",
+          "disease": "Stroke",
+          "admissionStatus": "Indoor"
+        }
+      ]
+    },
+    {
+      "doctorId": "3",
+      "name": "Dr.Mukesh Gelani",
+      "specialization": "Cardiologist",
+      "experience": "22",
+      "patients": [
+        {
+          "patientId": "301",
+          "name": "Zuhil Gajera",
+          "disease": "Heart Attack",
+          "admissionStatus": "Indoor"
+        }
+      ]
+    },
+    {
+      "doctorId": "4",
+      "name": "Dr.Mukesh Gelani",
+      "specialization": "Dermatologist",
+      "experience": "21",
+      "patients": [
+        {
+          "patientId": "301",
+          "name": "Zuhil Gajera",
+          "disease": "Heart Attack",
+          "admissionStatus": "Indoor"
+        }
+      ]
+    },
+    {
+      "doctorId": "5",
+      "name": "Dr. Jaydip Vaghela",
+      "specialization": "Neurologist",
+      "experience": "23",
+      "patients": []
+    },
+    {
+      "doctorId": "4",
+      "name": "Dr.Dev Gelani",
+      "specialization": "Cardiologist",
+      "experience": "24",
+      "patients": []
+    }
+  ]
+}
